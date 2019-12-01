@@ -6,5 +6,6 @@ package com.zwl.stream.test;
 public class Test2 {
     public static void main(String[] args) {
         System.out.println("我这是在test1分支的代码");
+        System.out.println("我是master分支输入的一句");
     }
 }
