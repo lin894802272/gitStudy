@@ -13,5 +13,7 @@ public class Test2 {
 
         System.out.println("我做了一些大事");
 
+        System.out.println("我又做了一件大事");
+
     }
 }
