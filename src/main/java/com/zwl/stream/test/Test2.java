@@ -10,5 +10,8 @@ public class Test2 {
         System.out.println("我在test1中的一次提交");
 
         System.out.println("我在master的提交");
+
+        System.out.println("我做了一些大事");
+
     }
 }
